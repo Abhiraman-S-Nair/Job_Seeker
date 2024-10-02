@@ -17,7 +17,7 @@ Advanced quantitative reasoning involves problem-solving with complex mathematic
 
 This section focuses on complex mathematical and logical problem-solving skills. Below are important topics along with 15 questions and detailed solutions.
 
-### 1. Probability
+## 1. Probability
 **Question 1:** What is the probability of getting a sum of 7 when two dice are rolled?
 - **Solution:** There are 6×6=36 possible outcomes when rolling two dice. The pairs that give a sum of 7 are (1,6), (2,5), (3,4), (4,3), (5,2), and (6,1), i.e., 6 outcomes.
 - **Answer:** \( P = \frac{6}{36} = \frac{1}{6} \)
